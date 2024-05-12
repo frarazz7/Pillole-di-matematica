@@ -1,1 +1,2 @@
 # Pillone-di-matematica
+Questo è un sitoweb contenente spiegazioni riguardo alcuni argomenti di matematica svolti durante il quinto anno. Si tratta di un sito interattivo, accessibile a tutti, utile a ripassare e rispolverare alcune nozioni magari anche in vista dell'esame di stato. Il sito per il momento contiene solo poche lezioni ma in realtà il progetto è ancora in corso e l'intento è quello di tenerlo sempre aggiornato lungo il corso dei miei studi, anche post-liceali.
